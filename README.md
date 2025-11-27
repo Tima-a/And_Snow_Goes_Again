@@ -26,4 +26,4 @@ All code, 3D models, game logic, Unity project management, and general project m
 <img width="407" height="218" alt="menu_settings-processed(lightpdf com)" src="https://github.com/user-attachments/assets/f9393286-a004-4594-86ac-553e234e9c87" />
 
 # Gameplay
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uOT-266Z9A4?si=Iek2xUYBGwi6gDHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/uOT-266Z9A4
