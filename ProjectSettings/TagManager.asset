@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - Part1
+  - Part2
+  - Part3
+  - Part4
+  - Part5
+  - Part6
+  - Part7
+  - Part8
+  - Part9
+  - Part10
+  - Part11
+  - Part12
+  - Part13
+  - Part14
+  - Part15
+  - Part16
+  - Part17
+  - Part18
+  - Part19
+  - Part20
+  - Part21
+  - Part22
+  - Part23
+  - Part24
+  - Part25
+  - Part26
+  - Part27
+  - Part28
+  - Part29
+  - Part30
+  - Part31
+  - Obstacle
+  - NotObstacle
+  - Last
+  - Teddybear
+  - Part32
+  - Money
+  - Book
+  - Door
+  - DoorExit
+  - Coins
+  - atm
+  - Battery
+  - DoorEnter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post
+  - NoPost
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
