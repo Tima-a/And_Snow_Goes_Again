@@ -26,4 +26,4 @@ All code, 3D models, game logic, Unity project management, and general project m
 <img width="407" height="218" alt="menu_settings-processed(lightpdf com)" src="https://github.com/user-attachments/assets/f9393286-a004-4594-86ac-553e234e9c87" />
 
 # Gameplay
-https://youtu.be/uOT-266Z9A4
+[**Watch "And Snow Goes Again" Gameplay**](https://youtu.be/uOT-266Z9A4)
