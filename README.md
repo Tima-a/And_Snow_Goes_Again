@@ -16,14 +16,14 @@ If the player finds the Teddy Bear after the third successful timeline alteratio
 All code, 3D models, game logic, Unity project management, and general project management were handled by me.
 
 # Screenshots:
-<img width="347" height="196" alt="9u33pL" src="https://github.com/user-attachments/assets/173d78dd-fdf5-4d30-9f1e-d43897ea8c54" />
-<img width="347" height="195" alt="7P5+RJ" src="https://github.com/user-attachments/assets/c4de476c-fd23-4a04-95a5-55d4a94ad864" />
-<img width="347" height="196" alt="1K0ryI" src="https://github.com/user-attachments/assets/274a6956-6ae8-4820-ab76-73c80114a0a9" />
-<img width="347" height="196" alt="_36Zd8" src="https://github.com/user-attachments/assets/faf64d3a-b480-4603-ae73-45a252f09d94" />
-<img width="347" height="195" alt="UboElZ" src="https://github.com/user-attachments/assets/4d1d4fe1-1799-4b9c-9ac1-c160d2c67c01" />
-<img width="347" height="195" alt="menu_rules-processed(lightpdf com)" src="https://github.com/user-attachments/assets/9c887647-fd19-471c-bbff-1e1d080d8f5e" />
-<img width="347" height="195" alt="image_menu (1)-processed(lightpdf com)" src="https://github.com/user-attachments/assets/b07aafea-b4e9-4a8a-85b9-8eff107ab539" />
-<img width="347" height="195" alt="menu_settings-processed(lightpdf com)" src="https://github.com/user-attachments/assets/f9393286-a004-4594-86ac-553e234e9c87" />
+<img width="477" height="268" alt="9u33pL" src="https://github.com/user-attachments/assets/173d78dd-fdf5-4d30-9f1e-d43897ea8c54" />
+<img width="477" height="268" alt="7P5+RJ" src="https://github.com/user-attachments/assets/c4de476c-fd23-4a04-95a5-55d4a94ad864" />
+<img width="477" height="268" alt="1K0ryI" src="https://github.com/user-attachments/assets/274a6956-6ae8-4820-ab76-73c80114a0a9" />
+<img width="477" height="268" alt="_36Zd8" src="https://github.com/user-attachments/assets/faf64d3a-b480-4603-ae73-45a252f09d94" />
+<img width="477" height="268" alt="UboElZ" src="https://github.com/user-attachments/assets/4d1d4fe1-1799-4b9c-9ac1-c160d2c67c01" />
+<img width="477" height="268" alt="menu_rules-processed(lightpdf com)" src="https://github.com/user-attachments/assets/9c887647-fd19-471c-bbff-1e1d080d8f5e" />
+<img width="477" height="268" alt="image_menu (1)-processed(lightpdf com)" src="https://github.com/user-attachments/assets/b07aafea-b4e9-4a8a-85b9-8eff107ab539" />
+<img width="477" height="268" alt="menu_settings-processed(lightpdf com)" src="https://github.com/user-attachments/assets/f9393286-a004-4594-86ac-553e234e9c87" />
 
 # Gameplay
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uOT-266Z9A4?si=Iek2xUYBGwi6gDHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
